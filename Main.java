@@ -22,7 +22,7 @@ public class Main {
     public static void main(String[] args) {
         
         // Crea un objeto de CalculadoraEjemplo con los operandos 10 y 5
-        CalculadoraEjemplo calculadora = new CalculadoraEjemplo(10, 5);
+        CalculadoraEjemplo calculadora = new CalculadoraEjemplo(8, 3);
         
         // Pruebas de cada método con los valores anteriores y muestra de resultados
         System.out.println("Suma: " + calculadora.suma());
